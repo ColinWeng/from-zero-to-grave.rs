@@ -1,13 +1,12 @@
 ---
-description: 开始学习Rust
+description: 翁小号持续学习，记录学习笔记
 ---
 
-# Rust从入门到入土
+## Rust从入门到入土
 
-12312
+* [1.基础入门](Rust/1.%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8)
+* [2.高级进阶](Rust/2.%E9%AB%98%E7%BA%A7%E8%BF%9B%E9%98%B6)
+* [3.常用组件](Rust/3.%E5%B8%B8%E7%94%A8%E7%BB%84%E4%BB%B6)
 
-<a href="https://www.gitbook.com/preview?utm_source=gitbook_readme_badge&utm_medium=organic&utm_campaign=preview_documentation&utm_content=link">
-    <img
-        src="https://img.shields.io/static/v1?message=Documented%20on%20GitBook&logo=gitbook&logoColor=ffffff&label=%20&labelColor=5c5c5c&color=3F89A1"
-    />
-</a>
+## 区块链知识点
+
