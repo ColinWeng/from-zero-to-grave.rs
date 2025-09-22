@@ -4,7 +4,7 @@ description: 开始学习Rust
 
 # Rust从入门到入土
 
-
+12312
 
 <a href="https://www.gitbook.com/preview?utm_source=gitbook_readme_badge&utm_medium=organic&utm_campaign=preview_documentation&utm_content=link">
     <img
