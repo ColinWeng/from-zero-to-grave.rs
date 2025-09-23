@@ -10,3 +10,14 @@ description: 翁小号持续学习，记录学习笔记
 
 ## 区块链知识点
 
+[以太坊](BlockChain/%E4%BB%A5%E5%A4%AA%E5%9D%8A.md)
+[比特币](BlockChain/%E6%AF%94%E7%89%B9%E5%B8%81.md)
+
+### 智能合约-Solidity
+
+[智能合约-Solidity](Solidity/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6-Solidity.md)
+
+### 🔥 Solidity 4 周深度强化训练任务表
+
+
+
