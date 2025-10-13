@@ -11,14 +11,6 @@ forge script scripts/day13/Deploy.s.sol \
   --verify \
   --etherscan-api-key xxx
 
-
-  cast send 0xf37d842a936c35596a85adb8ec1db8ee9aa5b4e5 \
-  "mint(address,uint256)" \
-  0xf162E7beCA3bE717A71254676aFB274A9815B629 \
-  100 \
-  --rpc-url sepolia \
-  --private-key 0x4b6865d1496bb2c1c1ba5c43c10e01eb05d0b9388d8c14c2fc14e064fecaf4aa
-
  */
 contract DeployScript is Script {
     function run() external {
